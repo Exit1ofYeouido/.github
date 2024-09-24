@@ -1,38 +1,58 @@
-# STOCK CRAFT
+<div align="center">
+
+  ## 소수점 주식 플랫폼
+  <img src="https://github.com/user-attachments/assets/69cd1aab-20fd-4b88-b820-c73e36267450" width="500">
+
+<br><br>
 
 ## 📈 서비스의 주 기능
-- 사용자는 **기업 광고 시청**이나 **브랜드 영수증 인증**을 통해 **소수점 주식**을 리워드로 받을 수 있습니다.
-- 활동을 통해 주식 투자에 참여할 수 있는 기회를 제공하여, 투자 경험을 극대화합니다.
-- 리워드를 통해 사용자는 자산을 다양화하고 성장할 수 있는 기회를 가집니다.
+사용자는 **기업 광고 시청**이나 **브랜드 영수증 인증**을 통해 **소수점 주식**을 리워드로 받을 수 있습니다.
+
+활동을 통해 주식 투자에 참여할 수 있는 기회를 제공하여, 투자 경험을 극대화합니다.
+
+리워드를 통해 사용자는 자산을 다양화하고 성장할 수 있는 기회를 가집니다.
 
 ## 📊 추가 기능
-- 사용자는 리워드 받은 소수점 주식을 손쉽게 관리하고 추적할 수 있습니다.
-- **출석 체크** 기능을 통해 사용자 참여를 유도합니다.
-- 사용자의 검색 로그를 확인할 수 있는 **관리자 페이지**를 제공합니다.
+
+사용자는 리워드 받은 소수점 주식을 손쉽게 관리하고 추적할 수 있습니다.
+
+**출석 체크** 기능을 통해 사용자 참여를 유도합니다.
+
+사용자의 검색 로그를 확인할 수 있는 **관리자 페이지**를 제공합니다.
 
 ## 🎥 기능 영상
 
 ### 📱 회원가입 (문자인증)
-<img src="https://github.com/user-attachments/assets/eecf6d23-f26e-44ce-a8be-550a31fea03d" width="800">
+
+<img src="https://github.com/user-attachments/assets/08a10b97-af2a-4e09-9517-2ec477e31aff" width="800">
 
 ### 🎬❓ 광고 시청 및 퀴즈
-<img src="https://github.com/user-attachments/assets/6f938f66-4b60-41ee-933f-6e21226d2fa2" width="800">
+
+<img src="https://github.com/user-attachments/assets/59ddbdb4-1a84-4afe-b158-f1e2a70c81b9" width="800">
 
 ### 🧾✔️ 브랜드 영수증 인증
-<img src="https://github.com/user-attachments/assets/c7ededbc-3440-474a-8528-02bcb766a785" width="800">
+
+<img src="https://github.com/user-attachments/assets/41179086-c4e6-4f84-af25-7dbad21ec049" width="800">
 
 ### 🔍📊 종목 검색 및 종목 매매
-<img src="https://github.com/user-attachments/assets/bfa51233-8b99-418f-b802-a97b551e9cee" width="800">
+
+<img src="https://github.com/user-attachments/assets/1290c839-8eb1-4a1c-8711-dafb044cc310" width="800">
 
 ### 🗓️✅ 출석 체크
-<img src="https://github.com/user-attachments/assets/9811332e-d501-41ac-8b87-b8f06429670e" width="800">
+
+<img src="https://github.com/user-attachments/assets/ba3e3d2a-88a6-443f-b77d-d0d484ac04da" width="800">
 
 ### 💰💸 마이페이지 (포인트 내역 및 출금)
-<img src="https://github.com/user-attachments/assets/dbefa6c6-7d1a-4588-92c8-2651f28858c9" width="800">
+
+<img src="https://github.com/user-attachments/assets/c8ed319b-8217-4ff8-888d-54601c90e042" width="800">
 
 ### 📈📉 마이페이지 (내 보유 주식)
-<img src="https://github.com/user-attachments/assets/22824902-5a5e-44a1-bd65-8c41d7042343" width="800">
 
+<img src="https://github.com/user-attachments/assets/5ee27657-8de7-4eb3-8d03-cc622fdcae49 " width="800">
+
+### 🔍🧑‍💻 사용자 로그 검색 (관리자 페이지)
+
+<img src="https://github.com/user-attachments/assets/36982580-8162-4ef8-84ed-d686b496aebe" width="800">
 
 
 ## ⚙️ 기술 스택
@@ -117,3 +137,4 @@
 | ✍      | TL;DR       | (Too Long; Didn't Read) 보통 문장 앞 부분에 긴 글을 요약할 때 쓰인다.                           |
 | ✍      | PTAL        | (Please Take Another Look) 제발 좀 봐주세요. 리뷰어가 리뷰를 해주다가 중간에 stop된 상태에서 리뷰좀 해달라고 부탁할때 쓰는 것으로 보인다. |
 | ✍      | AFAIK       | (As Far As I Know) 내가 알기에는, 내가 기억하는 한                                               |
+</div>
