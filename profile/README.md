@@ -10,6 +10,30 @@
 - **출석 체크** 기능을 통해 사용자 참여를 유도합니다.
 - 사용자의 검색 로그를 확인할 수 있는 **관리자 페이지**를 제공합니다.
 
+## 🎥 기능 영상
+
+### 📱 회원가입 (문자인증)
+<img src="https://github.com/user-attachments/assets/eecf6d23-f26e-44ce-a8be-550a31fea03d" width="800">
+
+### 🎬❓ 광고 시청 및 퀴즈
+<img src="https://github.com/user-attachments/assets/6f938f66-4b60-41ee-933f-6e21226d2fa2" width="800">
+
+### 🧾✔️ 브랜드 영수증 인증
+<img src="https://github.com/user-attachments/assets/c7ededbc-3440-474a-8528-02bcb766a785" width="800">
+
+### 🔍📊 종목 검색 및 종목 매매
+<img src="https://github.com/user-attachments/assets/bfa51233-8b99-418f-b802-a97b551e9cee" width="800">
+
+### 🗓️✅ 출석 체크
+<img src="https://github.com/user-attachments/assets/9811332e-d501-41ac-8b87-b8f06429670e" width="800">
+
+### 💰💸 마이페이지 (포인트 내역 및 출금)
+<img src="https://github.com/user-attachments/assets/dbefa6c6-7d1a-4588-92c8-2651f28858c9" width="800">
+
+### 📈📉 마이페이지 (내 보유 주식)
+<img src="https://github.com/user-attachments/assets/22824902-5a5e-44a1-bd65-8c41d7042343" width="800">
+
+
 
 ## ⚙️ 기술 스택
 
@@ -64,7 +88,7 @@
   </tr>
 </table>
 
-# Commit Message
+## Commit Message
 
 | 이모지 | 유형        | 설명                                                   | 예시                                              |
 |--------|-------------|--------------------------------------------------------|---------------------------------------------------|
@@ -80,7 +104,7 @@
 | 🗑️      | remove      | 파일 삭제                                              | 🗑️ remove: 더 이상 사용되지 않는 로컬 스토리지 헬퍼 함수 삭제 |
 | 🚚      | rename      | 파일 혹은 폴더명 수정 또는 이동 작업만                 | 🚚 rename: 컴포넌트 파일명을 더 명확하게 변경       |
 
-# Code Review
+## Code Review
 
 | 이모지 | 용어        | 설명                                                                                         |
 |--------|-------------|--------------------------------------------------------------------------------------------|
